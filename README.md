@@ -5,7 +5,7 @@ A Simple screenshot tool for Unity Editor
 ## Description
 
 Simplifies the process of creating Sprites/UI elements in unity from the sceneview.
-
+![MainScreenie](/Ap.png)
 ## Getting Started
 
 * Tested on BuiltIn Renderer, URP & HDRP.
